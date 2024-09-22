@@ -1,0 +1,49 @@
+copyright = "© 2024 john gitahi"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+languageCode = "en"
+timeZone = "Africa/Nairobi"
+timeout = "120s"
+title = "Photos"
+theme = 'gallery'
+
+[params]
+  defaultTheme = "dark"
+  description = ""
+  title = "photos i took"
+  [params.author]
+    email = "gitahi109@gmail.com"
+    name = "john gitahi"
+  [params.socialIcons]
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
+    github = "https://github.com/johngitahi/"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:gitahi109@gmail.com"
+    website = "https://gitahi.site"
+    #mastodon = "https://example.com"
+    #pixelfed = "https://example.com"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+#[menu]
+#  [[menu.footer]]
+#    name = "Home"
+#    url = "https://gitahi.site"
+#    weight = 3
+
+[services]
+  [services.rss]
+    limit = 100

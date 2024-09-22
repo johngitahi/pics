@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Photos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>gitahi109@gmail.com (john gitahi)</managingEditor>
+    <webMaster>gitahi109@gmail.com (john gitahi)</webMaster>
+    <copyright>© 2024 john gitahi</copyright><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birds</title>
+      <link>//localhost:1313/birds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gitahi109@gmail.com (john gitahi)</author>
+      <guid>//localhost:1313/birds/</guid><media:content url="//localhost:1313/birds/images/birds_hu14398050538801561848.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/birds/images/birds_hu14398050538801561848.jpg&quot; /&gt;
+          &lt;p&gt;Shots of birds soaring through the sky, seen from the grounded perspective of a human who can only dream of flying.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>//localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gitahi109@gmail.com (john gitahi)</author>
+      <guid>//localhost:1313/nature/</guid><media:content url="//localhost:1313/nature/images/tree1_hu17884377690054446686.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/nature/images/tree1_hu17884377690054446686.jpg&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Structures</title>
+      <link>//localhost:1313/structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gitahi109@gmail.com (john gitahi)</author>
+      <guid>//localhost:1313/structures/</guid><media:content url="//localhost:1313/structures/images/nakuru_oncology_centre_structures_hu15854843082393571096.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/structures/images/nakuru_oncology_centre_structures_hu15854843082393571096.jpg&quot; /&gt;
+          &lt;p&gt;well designed structures which are aesthetically pleasing&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
