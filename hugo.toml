@@ -1,3 +1,4 @@
+baseURL = "https://pics.gitahi.site"
 copyright = "© 2024 john gitahi"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
